@@ -26,7 +26,8 @@
 
 	"extensions": [
 		"dbaeumer.vscode-eslint",
-		"sonarsource.sonarlint-vscode"
+		"sonarsource.sonarlint-vscode",
+		"firsttris.vscode-jest-runner"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
